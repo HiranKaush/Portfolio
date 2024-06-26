@@ -1,10 +1,7 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+## Public Folder
 
-```
-yarn
-yarn dev
-```
+The public folder used in this project can be downloaded from the following link:
+
+[Download Public Folder](https://drive.google.com/drive/folders/1o4Xmrvqg9my2L7TMtCpjbt9C7Bs54brI?usp=drive_link)
 
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
